@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/pixys_surya.mk
+    $(LOCAL_DIR)/octavi_surya.mk
 
 COMMON_LUNCH_CHOICES := \
-    pixys_surya-user \
-    pixys_surya-userdebug \
-    pixys_surya-eng
+    octavi_surya-user \
+    octavi_surya-userdebug \
+    octavi_surya-eng
